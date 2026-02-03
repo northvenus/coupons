@@ -1,5 +1,5 @@
 # Referral coupons
-Sharing referral coupons mate!
+Sharing referral coupons!
 
 # Energy
 I am currently on Globird ZeroHero Plan, works great. Import 11:00 AM to 2:00 PM and export 6:00 PM to 8:00 PM. Removed Battery binding works better that way.
